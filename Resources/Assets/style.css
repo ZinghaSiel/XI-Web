@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri|Bad+Script|Bilbo|Bilbo+Swash+Caps|Charm|Redressed|Cuprum|Dancing+Script|Dosis|Great+Vibes|Handlee|Kaushan+Script|Merienda|Redressed|Noto+Serif|PT+Serif|Playfair+Display|Redressed|Sacramento|Signika|Smythe|Special+Elite|Stalemate|Tangerine|Titillium+Web|ZCOOL+XiaoWei');
+
+.logo {
+    font-weight: bold;
+    background-color: turquoise;
+    font-size: 60px;
+}
+
+body {
+    background-color: papayawhip;
+    font-family: 'Charm';
+    font-size: large
+}
+
+h2 {
+    color: turquoise;
+    font-weight: bold;    
+}
+
+.image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+}
+
+.text {
+    float: right;
+}
